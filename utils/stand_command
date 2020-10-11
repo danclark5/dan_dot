@@ -1,0 +1,4 @@
+#!/bin/bash
+shopt -s expand_aliases
+source /home/dan/.bashrc
+stand

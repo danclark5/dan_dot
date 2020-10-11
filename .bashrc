@@ -68,8 +68,8 @@ export NVM_DIR="$HOME/.nvm"
 # Things I want to keep
 
 ## Set up aliases
-if [ -f ~/dcutil/aliases.sh ]; then
-    . ~/dcutil/aliases.sh
+if [ -f ~/dcutil/dan_dot/aliases.sh ]; then
+    . ~/dcutil/dan_dot/aliases.sh
 fi
 
 ## Set up environment variables
